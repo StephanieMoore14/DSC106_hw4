@@ -1,0 +1,711 @@
+,date,title,rating,genres,id
+0,,The Original Action Hero,,"('documentary',)",tt4598020
+1,,It's a Fabulous World,,"('documentary',)",tt6727522
+2,2007-04-20,The Brotherhood,,"('documentary',)",tt1046268
+3,2020-11-24,"Stallone: Frank, That Is",,"('documentary',)",tt6812404
+4,1981-09-14,Entertainment Tonight,3.6,"('news',)",tt0081857
+5,2013-09-09,Ok! TV,5.0,"('news', 'talk-show')",tt3503424
+6,2018-07-03,IMDb on the Scene - Interviews,6.6,"('talk-show',)",tt8596744
+7,2015-03-23,The Late Late Show with James Corden,6.3,"('comedy', 'talk-show')",tt4280606
+8,2011-07-15,Dish Nation,4.2,"('news',)",tt1973047
+9,1996-09-24,Access Hollywood,3.2,"('news',)",tt0167515
+10,2003-01-26,Jimmy Kimmel Live!,6.7,"('comedy', 'music', 'talk-show')",tt0320037
+11,2000-10-23,Big Putts,7.8,"('comedy',)",tt1098154
+12,1975-01-06,Good Morning America,4.6,"('news', 'talk-show')",tt0072506
+13,1988-10-03,This Morning,4.9,"('talk-show',)",tt0181261
+14,2007-02-22,The Graham Norton Show,8.4,"('comedy', 'music', 'talk-show')",tt0924651
+15,1994-09-05,Extra,3.5,"('news',)",tt0247094
+16,2014-03-10,The Noite com Danilo Gentili,6.6,"('comedy', 'talk-show')",tt3612488
+17,2009-01-18,State of the Union with John King,6.5,"('news',)",tt1362996
+18,2015-10-07,Jay Leno's Garage,7.5,"('documentary',)",tt4944090
+19,,Días de cine,6.3,"('news',)",tt0390699
+20,2018-04-30,Story of Science Fiction,8.1,"('documentary',)",tt8344332
+21,2018-04-10,Andre the Giant,7.8,"('documentary', 'biography', 'sport')",tt6543420
+22,2018-01-19,The Game Changers,8.2,"('documentary',)",tt7455754
+23,,T2: Reprogramming The Terminator,8.7,"('documentary',)",tt7710590
+24,,Taff,2.6,"('news', 'talk-show')",tt0355143
+25,2017-11-16,Bambi Medienpreis,,"('family',)",tt9909254
+26,2017-11-14,Stars gegen Trump: Amerikas neuer Widerstand,,"('documentary',)",tt7639962
+27,2016-11-18,Objectified,7.6,"('biography', 'talk-show')",tt7423218
+28,2017-11-01,Conor McGregor: Notorious,7.2,"('documentary', 'biography', 'sport')",tt7518466
+29,2017-11-24,Celebrity Binge Watch,,"('talk-show',)",tt9242512
+30,2017-05-20,Wonders of the Sea 3D,6.4,"('documentary',)",tt5495792
+31,2017-07-31,Arnold Schwarzenegger: Ein steirisches Idol,,"('documentary',)",tt7216800
+32,2017-07-24,Arnold Schwarzenegger - Vom Steirerbub zum Superstar,,"('documentary',)",tt7217018
+33,2014-04-28,Good Morning Britain,3.5,"('news', 'talk-show')",tt3644198
+34,2017-05-12,Generation Iron 2,6.1,"('documentary',)",tt6263642
+35,2017-03-30,Guardians of the Earth,6.8,"('documentary',)",tt7214084
+36,,Sunrise,3.6,"('news', 'talk-show')",tt0428169
+37,2004-01-08,The Apprentice,5.0,"('game-show', 'reality-tv')",tt0364782
+38,2010-09-13,Access Hollywood Live,4.3,"('talk-show',)",tt1746642
+39,2016-12-31,A Toast to 2016!,,"('news',)",tt8047520
+40,2014-02-24,Late Night with Seth Meyers,6.1,"('comedy', 'talk-show')",tt3513388
+41,1952-01-14,Today,4.8,"('news', 'talk-show')",tt0044298
+42,1988-09-05,Live with Regis and Kathie Lee,4.6,"('talk-show',)",tt0096636
+43,2014-02-17,The Tonight Show Starring Jimmy Fallon,7.4,"('comedy', 'music', 'talk-show')",tt3444938
+44,2004-09-13,The Insider,2.6,"('news',)",tt0430836
+45,2014-04-13,Years of Living Dangerously,8.5,"('documentary',)",tt2963070
+46,2016-11-15,David Blaine: Beyond Magic,7.3,"('documentary', 'mystery')",tt6265614
+47,2010-08-30,In Depth with Graham Bensinger,7.7,"('sport',)",tt5134400
+48,2016-09-10,A Musikant im Trachtengwand: Die Edlseer & Freunde,,"('music',)",tt6076124
+49,1947-11-06,Meet the Press,5.6,"('news', 'talk-show')",tt0149490
+50,2010-02-23,WWE NXT,7.7,"('action', 'game-show', 'reality-tv', 'sport')",tt1601141
+51,2015-11-24,Radical Body Transformations,,"('reality-tv',)",tt4074786
+52,2015-11-10,Reset the Future: Constructing 'Terminator Genisys',,"('documentary',)",tt5473582
+53,2015-11-10,Terminator Genisys: Infiltration and Termination,7.3,"('documentary', 'short')",tt5473526
+54,2015-11-10,Terminator Genisys: Family Dynamics,7.7,"('documentary', 'short')",tt5473512
+55,2015-11-07,UFC Embedded on FOX,8.3,"('sport',)",tt5618936
+56,2015-08-30,Explorer,6.9,"('documentary',)",tt4995052
+57,2015-10-24,Sting: Into the Light,7.7,"('documentary', 'biography', 'sport')",tt4800496
+58,2015-08-08,Eddie: Strongman,7.5,"('documentary',)",tt4334636
+59,2008-05-02,Piper's Picks TV,9.5,"('talk-show',)",tt1915208
+60,2012-05-11,The Living Room,5.6,"('talk-show',)",tt3514356
+61,2014-01-31,Unscripted,5.5,"('talk-show',)",tt3524446
+62,2009-08-30,Rencontres de cinéma,3.5,(),tt5123584
+63,2015-06-17,Arnold Pranks Fans as the Terminator,9.4,"('short',)",tt4874676
+64,2015-06-10,2015 CMT Music Awards,,"('music',)",tt4839282
+65,2015-06-09,MTV After Hours with Josh Horowitz,,"('short', 'talk-show')",tt7914770
+66,2015-05-29,Talking to Hollywood with Betty Zhou,,"('talk-show',)",tt5290904
+67,2015-05-14,Arnold Schwarzenegger's Guide to Blowing Sh*T Up,,"('short',)",tt4687336
+68,2015-03-29,WrestleMania,8.1,"('action', 'sport')",tt3756558
+69,2015-03-28,WWE Hall of Fame,7.3,"('sport',)",tt4352548
+70,2009-03-28,Formula 1: BBC Sport,8.6,"('sport',)",tt1540109
+71,2004-05-02,Giant Jack o Taose! Dasshutsu e no Saigo no Nozomi,7.9,"('animation', 'action', 'adventure', 'comedy', 'fantasy')",tt1008763
+72,2014-11-25,The Expendables 3: The Total Action Package,7.3,"('short',)",tt5266916
+73,2014-11-25,The Expendables 3: New Blood - Stacked and Jacked,6.6,"('documentary', 'short')",tt5266900
+74,2014-11-25,The Making of 'The Expendables 3',6.5,"('documentary',)",tt5266790
+75,2014-10-18,The 50th Annual Mr Olympia,8.8,"('sport',)",tt4057772
+76,2014-07-22,Making 'Sabotage',5.2,"('documentary', 'short')",tt5428974
+77,2014-06-23,Howard Stern Birthday Bash,6.6,"('comedy', 'music', 'talk-show')",tt3843176
+78,,Cinema 3,5.9,"('news',)",tt0111920
+79,2014-01-01,Sit Down with the Stars,2.6,"('news',)",tt4369244
+80,2014-04-20,Boardwalk Hempire: The Rise and Fall of the Medical Kush Beach Club,6.0,"('documentary', 'biography', 'crime', 'history')",tt2246597
+81,2005-09-30,Made in Hollywood,4.3,"('talk-show',)",tt0911896
+82,2002-11-09,Deutschland sucht den Superstar,2.0,"('game-show', 'music', 'reality-tv')",tt0362339
+83,2007-02-21,Reel Junkie,4.4,"('talk-show',)",tt3234862
+84,2007-02-21,Up Close with Carrie Keagan,4.3,"('talk-show',)",tt1434322
+85,1993-01-11,WWE Monday Night RAW,7.8,"('action', 'sport')",tt0185103
+86,2014-02-04,Escape Plan: Clash of the Titans,6.8,"('short',)",tt5260790
+87,2014-02-04,Executing the Plan: The Making of 'Escape Plan',,"('documentary', 'short')",tt5260768
+88,2013-09-24,Das Energie-Experiment Güssing,,"('documentary',)",tt3804438
+89,2013-09-20,Generation Iron,7.1,"('documentary', 'drama', 'sport')",tt2205904
+90,2011-07-06,Framelines,6.7,"('reality-tv',)",tt2119027
+91,2013-05-21,Cornfield Chaos: Scene Breakdown of 'The Last Stand',,"('short',)",tt5309800
+92,2013-05-21,Not in My Town: Making 'The Last Stand',,"('documentary', 'short')",tt5308690
+93,2011-01-17,Piers Morgan Tonight,3.0,"('talk-show',)",tt1809909
+94,1996-04-24,Smap×Smap,7.4,"('comedy', 'game-show', 'music', 'talk-show')",tt0305109
+95,2003-09-28,Pânico na TV,5.6,"('comedy',)",tt0466518
+96,2013-04-06,WWE Hall of Fame 2013,6.3,"('sport',)",tt2626432
+97,2013-03-09,Milius,7.5,"('documentary', 'biography', 'drama')",tt2370224
+98,2013-03-01,ASF25 a Documentary,,"('documentary',)",tt3556650
+99,2012-04-16,Vecherniy Urgant,6.3,"('comedy', 'news', 'talk-show')",tt4264964
+100,2010-09-24,Daybreak,3.1,"('news', 'talk-show')",tt1695352
+101,2000-10-02,Breakfast,5.3,"('family', 'news', 'talk-show')",tt0262152
+102,2011-05-09,Big Morning Buzz Live,5.9,"('talk-show',)",tt1907886
+103,1998-02-01,Fox and Friends,3.4,"('news', 'talk-show')",tt0185065
+104,,Late Night with Jimmy Fallon,6.9,"('comedy', 'music', 'talk-show')",tt1231460
+105,2013-01-13,70th Golden Globe Awards,7.4,"('news', 'reality-tv', 'talk-show')",tt2604420
+106,1992-05-25,The Tonight Show with Jay Leno,5.2,"('comedy', 'music', 'talk-show')",tt0103569
+107,2005-01-17,The Hour,4.8,"('comedy', 'music', 'news', 'talk-show')",tt0456031
+108,1996-07-22,The Daily Show,8.4,"('comedy', 'news', 'talk-show')",tt0115147
+109,1968-09-24,60 Minutes,7.4,"('documentary', 'news')",tt0123338
+110,2012-05-15,30 for 30 Shorts,7.5,"('documentary', 'short')",tt2158640
+111,2012-03-19,Craptastic!,3.7,"('documentary', 'biography', 'comedy', 'news')",tt1999125
+112,2011-11-24,Conan: From the Vault,,"('short',)",tt5230608
+113,,A Call for Renewable Energy in Brazil,,"('documentary', 'short')",tt2343698
+114,2012-03-20,Tony Curtis: Driven to Stardom,7.3,"('documentary', 'biography')",tt1910651
+115,2011-08-01,Close Up,7.2,"('biography',)",tt2132638
+116,2011-04-22,Revenge of the Electric Car,7.2,"('documentary',)",tt1413496
+117,2011-03-24,A Classic Tale: From Flabby to Fantastic,,"('documentary', 'short', 'biography', 'drama', 'sport')",tt1820367
+118,2011-03-30,The Man Who Changed the World. Mikhail Gorbachev's 80th Birthday Gala,,"('reality-tv',)",tt9805806
+119,2011-01-14,16th Annual Critics' Choice Movie Awards,5.9,"('documentary',)",tt1817076
+120,2011-01-01,California State of Mind: The Legacy of Pat Brown,8.4,"('documentary', 'biography')",tt1326743
+121,2010-11-03,Marijuana: A Chronic History,7.7,"('documentary',)",tt1765903
+122,2010-09-17,Die Stille der Unschuld - Der Künstler Gottfried Helnwein,8.1,"('documentary',)",tt1676103
+123,2010-08-21,Inferno: The Making of 'The Expendables',7.8,"('documentary',)",tt1687890
+124,2010-06-28,The Politic Context of 'Red Heat',,"('documentary', 'short')",tt5369732
+125,2010-04-27,Gerrymandering,7.1,"('documentary',)",tt1241319
+126,2010-02-12,Vancouver 2010: XXI Olympic Winter Games,8.1,"('family', 'sport')",tt1517514
+127,2010-01-27,Nuclear Tipping Point,7.3,"('documentary',)",tt1693809
+128,2010-02-28,Climate One Commonwealth Club Forum,,"('talk-show',)",tt1990507
+129,2010-01-17,The 67th Annual Golden Globe Awards,7.3,"('comedy', 'music', 'news')",tt1564372
+130,2009-11-24,2009 Britannia Awards,,(),tt1871196
+131,2007-01-01,Aftenshowet,4.3,"('news', 'talk-show')",tt0939787
+132,2009-10-24,Hot Cities,,"('documentary',)",tt2157076
+133,2009-12-12,Salmagundi,8.7,"('documentary', 'short', 'history', 'news')",tt1479799
+134,2009-09-14,The Jay Leno Show,3.6,"('comedy', 'talk-show')",tt1381004
+135,2009-01-12,Hannity,4.4,"('news', 'talk-show')",tt1500570
+136,2009-05-25,Straight from the Horses Mouth,6.7,"('comedy',)",tt2012025
+137,2009-03-05,Reg Park: The Legend,9.0,"('documentary',)",tt1410049
+138,1992-06-01,Punkt 12,3.6,"('news',)",tt0343294
+139,2009-02-15,Right America: Feeling Wronged - Some Voices from the Campaign Trail,7.0,"('documentary',)",tt1372293
+140,1974-03-03,Nova,8.7,"('documentary',)",tt0206501
+141,1978-01-01,Tagesthemen,5.9,"('documentary', 'news')",tt0193684
+142,2008-10-08,Being W,6.8,"('documentary',)",tt1230447
+143,2008-09-30,Why We Train,8.1,"('documentary',)",tt1288607
+144,2008-09-14,Chabad: To Life Telethon,5.1,"('family',)",tt1295082
+145,2008-07-30,Citizen Kate,6.4,"('documentary', 'short')",tt1388415
+146,2008-06-01,Caring for Our Water,,"('documentary',)",tt1251341
+147,1973-02-22,HBO World Championship Boxing,8.0,"('documentary', 'sport')",tt0775367
+148,1991-09-30,Charlie Rose,7.5,"('news', 'talk-show')",tt0270116
+149,2008-02-26,Terminator 3: TerminatorVision,,"('documentary', 'short')",tt6037166
+150,1985-06-03,Larry King Live,5.5,"('news', 'talk-show')",tt0088550
+151,2003-06-11,Imagine,6.9,"('documentary', 'history')",tt0237968
+152,2008-01-19,Bigger Stronger Faster*,7.6,"('documentary', 'sport')",tt1151309
+153,2007-12-06,Chanukah Lights Live,,"('reality-tv',)",tt2005176
+154,2007-09-09,Chabad Telethon,,"('fantasy',)",tt1358398
+155,2007-09-09,Darfur Now,6.8,"('documentary',)",tt0988102
+156,1996-11-24,E! True Hollywood Story,6.6,"('documentary', 'biography')",tt0463399
+157,1981-10-05,20 heures le journal,5.1,"('news',)",tt0480279
+158,2007-05-25,2007 Taurus World Stunt Awards,7.2,(),tt1039943
+159,1997-11-09,BBC News 24,6.0,"('news',)",tt0240256
+160,1999-03-08,ITV Evening News,4.3,"('news',)",tt0241108
+161,2007-01-15,The 64th Annual Golden Globe Awards,5.5,"('news',)",tt0914790
+162,2006-12-13,George Clooney: An American Cinematheque Tribute,6.7,(),tt0839834
+163,1985-10-07,American Masters,8.0,"('documentary', 'biography')",tt0364151
+164,2006-10-01,40 Dumbest Celeb Quotes... Ever,6.8,"('comedy',)",tt0953289
+165,2006-05-22,Legends Ball,6.3,"('documentary', 'drama')",tt0803026
+166,2006-04-30,Al Franken: God Spoke,6.4,"('documentary', 'comedy')",tt0799916
+167,1996-12-24,This Week,5.5,"('news', 'talk-show')",tt0481456
+168,1997-01-06,Bl!tz,3.4,"('documentary', 'news')",tt0360248
+169,2005-11-24,Batman & Robin Villains: Mr. Freeze,6.3,"('documentary', 'short')",tt5524988
+170,2005-11-24,Beyond Batman: Frozen Freaks and Femme Fatales - The Makeup of 'Batman & Robin',,"('documentary', 'short')",tt5186650
+171,2005-11-24,"Beyond Batman: Bigger, Bolder, Brighter - The Production Design of 'Batman & Robin'",7.5,"('documentary', 'short')",tt5186618
+172,2005-11-24,Batman: The Motion Picture Anthology 1989-1997 - Beyond Batman: Freeze Frame - The Visual FX of 'Batman & Robin',6.7,"('documentary', 'short')",tt1018684
+173,2005-11-24,Batman: The Motion Picture Anthology 1989-1997 - Beyond Batman: Dressed to Thrill - The Costumes of 'Batman & Robin',6.4,"('documentary', 'short')",tt1018683
+174,1997-07-07,Corazón de...,3.7,"('news',)",tt0463397
+175,2005-10-10,2005 Taurus World Stunt Awards,5.0,"('action',)",tt0844444
+176,1970-09-21,NFL Monday Night Football,8.2,"('sport',)",tt0065323
+177,2005-09-26,The Terminator: Closer to the Real Thing,,"('documentary', 'short')",tt5473104
+178,2005-09-26,Unstoppable Force: The Legacy of 'The Terminator',,"('documentary', 'short')",tt5473096
+179,1996-10-07,The O'Reilly Factor,3.5,"('news', 'talk-show')",tt0284767
+180,2005-06-21,"AFI's 100 Years... 100 Movie Quotes: America's Greatest Quips, Comebacks and Catchphrases",7.9,"('documentary', 'history')",tt0466642
+181,2002-01-18,Now with Bill Moyers,6.5,"('documentary', 'news')",tt0396352
+182,1970-08-01,NBC Nightly News,5.6,"('news',)",tt0231035
+183,2005-04-24,Pursuit of Equality,6.6,"('documentary',)",tt0462496
+184,2003-12-03,Extreme Makeover: Home Edition,6.3,"('comedy', 'drama', 'family', 'reality-tv')",tt0388595
+185,1997-11-24,Hardball with Chris Matthews,4.6,"('news', 'talk-show')",tt0414740
+186,,Hannity & Colmes,3.2,"('news', 'talk-show')",tt0287223
+187,1987-04-06,Biography,7.8,"('documentary', 'biography')",tt0092322
+188,2005-02-16,Spirit of Exploration,,"('documentary',)",tt1172540
+189,2005-01-16,The 62nd Annual Golden Globe Awards,6.0,(),tt0429486
+190,2004-12-15,Hydrogen Fuel Cell Vehicles,,"('documentary', 'short')",tt0888501
+191,2004-10-08,WMD: Weapon of Mass Destruction,5.0,"('documentary', 'war')",tt0430749
+192,2004-05-26,2004 Taurus World Stunt Awards,5.3,"('action',)",tt0435592
+193,2004-04-24,How Arnold Won the West,5.9,"('documentary', 'biography')",tt0420678
+194,,Dennis Miller,4.3,"('comedy', 'talk-show')",tt0396982
+195,1976-12-14,The Barbara Walters Special,5.1,"('drama', 'news', 'talk-show')",tt0326459
+196,,Passé sous silence,,"('documentary',)",tt6493630
+197,2003-11-28,Arnold Schwarzenegger: The Early Years,,"('documentary',)",tt6405478
+198,2002-07-19,Tinseltown TV,7.2,"('music', 'news')",tt0376434
+199,1992-09-14,Gomorron,4.2,"('news',)",tt0930831
+200,,BBC World News,6.9,"('news',)",tt0344621
+201,2003-11-14,T3 Visual Effects Lab,4.5,"('documentary', 'short')",tt0388451
+202,2003-11-11,T3: Making of the Video Game,6.7,"('short',)",tt5473202
+203,2003-11-11,T3: Dressed to Kill,7.0,"('short',)",tt5473180
+204,2003-11-11,Terminator 3: Sky Net Database,6.8,"('documentary', 'short')",tt0498258
+205,2003-11-11,Inside 'Terminator 3: Rise of the Machines',5.4,"('documentary', 'short')",tt0391240
+206,2001-11-26,Richard & Judy,4.0,"('talk-show',)",tt0299374
+207,1982-11-02,Channel 4 News,6.4,"('news',)",tt0239164
+208,1995-07-04,Otro rollo con: Adal Ramones,7.7,"('comedy', 'talk-show')",tt0224938
+209,2003-07-04,Macy's 4th of July Spectacular,3.5,"('family', 'music')",tt0373116
+210,1994-03-24,HBO First Look,6.0,"('documentary', 'short')",tt0318220
+211,1994-06-20,Howard Stern,6.1,"('comedy', 'talk-show')",tt0159879
+212,2003-06-21,Morten og Peter i Dublin,7.5,"('documentary', 'sport')",tt0386954
+213,2003-06-09,2003 ABC World Stunt Awards,3.5,"('action',)",tt0370250
+214,2003-06-03,T2: On the Set,6.8,"('documentary', 'short')",tt5473142
+215,2003-06-03,AFI's 100 Years... 100 Heroes & Villains,7.2,"('documentary',)",tt0369200
+216,2003-05-27,"Trier, Kidman og Cannes",5.2,"('documentary', 'short')",tt0369030
+217,2003-01-26,Super Bowl XXXVII,6.6,"('sport',)",tt0351796
+218,2003-01-19,The 60th Annual Golden Globe Awards,6.1,"('family',)",tt0349057
+219,,Raw Iron: The Making of 'Pumping Iron',7.3,"('documentary',)",tt0369866
+220,2002-11-15,Iron and Beyond,6.6,"('documentary', 'short', 'biography')",tt0431836
+221,2002-09-24,Secrets of Superstar Fitness,5.3,"('family',)",tt0329922
+222,2002-07-30,The Hero in a New Era: Reflections on Collateral Damage,6.2,"('documentary', 'short')",tt0498228
+223,2002-05-19,2002 ABC World Stunt Awards,3.9,(),tt0346470
+224,2001-10-21,Rank,3.8,"('documentary',)",tt0340474
+225,1996-10-04,Life and Times,7.5,"('documentary', 'biography')",tt0348811
+226,2001-11-24,Beskonechnaya istorya Gollivuda,,"('documentary',)",tt9598568
+227,2001-11-24,Predator: The Unseen Arnold,7.8,"('documentary', 'short')",tt0816095
+228,,Anthony Quinn: The Final Words,6.2,"('documentary', 'biography')",tt0315779
+229,,If It Bleeds We Can Kill It: The Making of 'Predator',7.2,"('documentary', 'short')",tt0311317
+230,,Imagining 'Total Recall',6.5,"('documentary', 'short', 'sci-fi')",tt0305666
+231,2001-11-20,Dirty Harry: The Original,6.8,"('documentary', 'short')",tt0357603
+232,2001-11-11,I Love Lucy's 50th Anniversary Special,6.9,"('comedy', 'documentary', 'family')",tt0297959
+233,2001-11-02,Last Party 2000,6.4,"('documentary',)",tt0253201
+234,2001-07-24,On the 6th Day,5.0,"('documentary',)",tt3296282
+235,2001-06-16,2001 ABC World Stunt Awards,6.1,"('family',)",tt0291699
+236,2001-06-12,AFI's 100 Years... 100 Thrills: America's Most Heart-Pounding Movies,7.3,"('documentary',)",tt0288408
+237,1999-11-24,The Directors,7.3,"('documentary', 'biography')",tt0224861
+238,2000-07-03,The RDA,7.0,"('talk-show',)",tt0283215
+239,2001-03-19,Other Voices: Creating 'The Terminator',7.3,"('documentary', 'sci-fi')",tt0365601
+240,2001-03-11,2001 Winter Special Olympics,6.1,"('sport',)",tt0480875
+241,2001-02-01,60 Jahre Karl Dall,,(),tt1203990
+242,2001-07-24,The 6th Day: The Future Is Coming,6.2,"('documentary', 'short')",tt3309504
+243,,Bodybuilders,8.0,"('documentary',)",tt0375617
+244,1996-04-06,Ôsama no buranchi,,"('talk-show',)",tt1453928
+245,2000-08-29,The Making of 'Terminator 2 3D',6.3,"('documentary', 'sci-fi', 'short')",tt0368004
+246,2000-05-30,Conan Unchained: The Making of 'Conan',7.5,"('documentary',)",tt0430950
+247,2000-05-09,2000 Blockbuster Entertainment Awards,4.6,"('documentary', 'family')",tt0343328
+248,2000-04-18,The Devil's Playground: The Visual Effects of 'End of Days',,"('documentary',)",tt5256604
+249,2000-04-18,End of Days: The Beginning,4.6,"('documentary', 'short')",tt0365161
+250,2000-03-26,The 72nd Annual Academy Awards,6.4,"('family',)",tt0266222
+251,1995-09-04,WCW Monday Nitro,8.0,"('action', 'sport')",tt0185130
+252,1994-05-02,Exclusiv - Das Star-Magazin,3.2,"('news', 'talk-show')",tt0493184
+253,1993-11-24,Intimate Portrait,7.1,"('documentary', 'biography')",tt0896232
+254,1998-08-22,The Howard Stern Radio Show,7.0,"('talk-show',)",tt0165319
+255,1999-04-27,WWF SmackDown!,7.3,"('action', 'sport')",tt0227972
+256,,Total Request Live,3.9,"('music',)",tt0167735
+257,1993-09-13,Late Night with Conan O'Brien,8.1,"('comedy', 'music', 'talk-show')",tt0106052
+258,1999-11-11,Arnold Schwarzenegger: Hollywood Hero,6.1,"('documentary',)",tt0214490
+259,1998-05-24,Mondän!,,"('documentary',)",tt1191978
+260,1998-11-24,Hollywood Salutes Arnold Schwarzenegger: An American Cinematheque Tribute,4.8,(),tt0451473
+261,1998-10-12,Junket Whore,4.3,"('documentary',)",tt0311376
+262,1998-10-04,Bravo Profiles: The Entertainment Business,6.1,"('documentary',)",tt0773260
+263,1998-06-08,The Magic Hour,3.6,"('music', 'talk-show')",tt0159177
+264,1998-04-15,To Life! America Celebrates Israel's 50th,5.5,(),tt0326287
+265,1998-03-23,The 70th Annual Academy Awards,6.7,"('news',)",tt0284808
+266,1998-03-10,1998 Blockbuster Entertainment Awards,4.7,(),tt1715312
+267,1997-11-24,Arnold Schwarzenegger - Blitzlichter eines amerikanischen Traums,,"('biography',)",tt1427185
+268,,Directors: James Cameron,6.7,"('documentary', 'biography')",tt0322031
+269,,Stand Tall,6.6,"('documentary',)",tt0120195
+270,1996-04-21,Mundo VIP,4.0,"('news',)",tt0483221
+271,1997-02-12,Die goldene Kamera 1997,,(),tt5295954
+272,,Crook & Chase,6.3,"('music', 'talk-show')",tt0224855
+273,2001-02-23,A Century of Science Fiction,6.0,"('documentary',)",tt0167820
+274,1994-09-05,Studio Gabriel,5.3,"('comedy',)",tt0416426
+275,1981-02-14,"Wetten, dass..?",5.8,"('comedy', 'game-show', 'music')",tt0081961
+276,1992-05-11,Explosiv - Das Magazin,3.5,"('documentary', 'news', 'talk-show')",tt0429346
+277,1972-05-05,Episode dated 5 May 1972,,"('comedy', 'family', 'game-show')",tt1128126
+278,1996-09-09,2nd Annual Soul Train Lady of Soul Awards,,"('music',)",tt8857870
+279,1996-08-09,Very Important Pennis,8.0,"('comedy',)",tt0246354
+280,1995-11-24,The Crypt Keeper Presents: A Spine-Tingling Look at Tales from the Crypt,,"('documentary', 'short', 'comedy', 'horror')",tt5119782
+281,1990-11-24,Tohuwabohu,7.6,"('comedy',)",tt0114686
+282,1995-12-14,Sinatra: 80 Years My Way,7.8,"('documentary', 'music')",tt0114453
+283,1995-09-07,The Annual 1995 ShoWest Awards,5.4,(),tt2392421
+284,1995-04-21,The First 100 Years: A Celebration of American Movies,7.9,"('documentary',)",tt0113068
+285,1995-03-27,The 67th Annual Academy Awards,6.7,"('family',)",tt0268875
+286,1986-09-13,Siskel & Ebert & the Movies,8.6,"('talk-show',)",tt0090523
+287,1995-01-21,The 52nd Annual Golden Globe Awards,6.7,"('music',)",tt0482447
+288,,A Century of Cinema,5.3,"('documentary',)",tt0109390
+289,1993-01-17,Moviewatch,6.9,"('documentary',)",tt0200355
+290,1993-08-30,Late Show with David Letterman,6.8,"('comedy', 'music', 'talk-show')",tt0106053
+291,1994-01-07,Lista Top 40,6.5,"('music',)",tt1445553
+292,1994-07-24,The Making of 'True Lies',7.1,"('documentary', 'family')",tt0899196
+293,1989-01-03,The Arsenio Hall Show,6.4,"('comedy', 'family', 'music', 'talk-show')",tt0096537
+294,1993-11-24,Behind the Scenes: Last Action Hero,7.9,"('documentary', 'short')",tt6469114
+295,1993-11-24,The Road to Hollywood,,"('documentary',)",tt0934561
+296,,T2: More Than Meets the Eye,6.7,"('action', 'short', 'documentary', 'sci-fi')",tt0204667
+297,1990-01-24,Entertainment UK,,"('news',)",tt1472478
+298,1993-12-02,Hollywood Women,6.2,"('documentary',)",tt0382438
+299,1993-08-27,The Last Party,6.1,"('documentary', 'history')",tt0107372
+300,1993-07-13,1993 MTV Movie Awards,3.8,(),tt0275879
+301,1988-08-01,Good Day New York,4.9,"('news',)",tt0448961
+302,1993-06-14,John & Leeza from Hollywood,,(),tt0106038
+303,1984-06-09,Aspel & Company,6.7,"('talk-show',)",tt0189240
+304,1993-05-09,Kathie Lee Gifford's Celebration of Motherhood,,"('family',)",tt0499043
+305,1983-10-17,Sally Jessy Raphael,4.3,"('talk-show',)",tt0088598
+306,1987-11-30,CBS This Morning,5.0,"('news', 'talk-show')",tt0355070
+307,2001-03-19,The Making of 'The Terminator': A Retrospective,6.5,"('documentary', 'short')",tt0365473
+308,1992-11-14,Nickelodeon Kids' Choice Awards '92,7.0,(),tt1677633
+309,1992-09-11,Feed,5.7,"('documentary',)",tt0104244
+310,1992-07-24,Jocs de nit,,"('talk-show',)",tt0423674
+311,1992-06-10,1992 MTV Movie Awards,4.4,"('family',)",tt0275878
+312,,Gran premio internazionale della TV,6.6,"('comedy', 'music', 'talk-show')",tt1263775
+313,1962-10-01,The Tonight Show Starring Johnny Carson,8.4,"('comedy', 'talk-show')",tt0055708
+314,1992-03-17,The 18th Annual People's Choice Awards,6.9,(),tt1300154
+315,1992-03-01,Muhammad Ali's 50th Birthday Celebration,7.2,(),tt0358603
+316,1992-01-18,The 49th Annual Golden Globe Awards,6.8,"('news',)",tt1800383
+317,1975-10-11,Saturday Night Live,8.1,"('comedy', 'music')",tt0072562
+318,1982-11-24,Wogan,6.4,"('talk-show',)",tt0083504
+319,,Showbiz Today,4.7,"('news',)",tt0185822
+320,1991-09-15,Acompáñame,,"('music',)",tt6651256
+321,1991-09-09,The Making of 'Terminator 2: Judgment Day',7.3,"('documentary', 'short')",tt0271049
+322,1991-09-03,Victory & Valor: Special Olympics World Games,5.0,"('documentary', 'sport')",tt0443688
+323,1982-02-01,Late Night with David Letterman,7.4,"('comedy', 'music', 'talk-show')",tt0083441
+324,,Inside Edition,3.9,"('documentary', 'news')",tt0166442
+325,1991-02-24,Naked Hollywood,6.6,"('history',)",tt0297595
+326,1990-11-24,Mary Hart Presents: Power in the Public Eye,,"('talk-show',)",tt3097374
+327,,The Making of 'Total Recall',6.5,"('documentary', 'short')",tt0271050
+328,1990-12-10,The Making of 'Kindergarten Cop',,"('documentary', 'short')",tt2703334
+329,1990-09-03,Stars 90,,"('music',)",tt3490772
+330,1990-08-10,The Word,6.4,"('talk-show',)",tt0169515
+331,,Arnold Schwarzenegger Bodybuilding Classic,8.7,"('documentary',)",tt0261540
+332,,Sacrée soirée,4.1,"('family', 'musical')",tt0375439
+333,1989-01-19,Presidential Inaugural Gala,,"('music',)",tt2040474
+334,2004-09-07,The Making of 'Red Heat',,"('documentary', 'short')",tt5369756
+335,1988-11-24,The World's Greatest Stunts: A Tribute to Hollywood Stuntmen,6.8,"('documentary',)",tt1976001
+336,1988-11-24,Schwarzenegger: Total Rebuild,6.8,"('documentary',)",tt1886668
+337,1982-11-24,Not Necessarily the News,7.4,"('comedy',)",tt0085065
+338,1986-01-07,The Oprah Winfrey Show,5.1,"('talk-show',)",tt0090493
+339,1980-09-08,Hour Magazine,6.9,"('family', 'talk-show')",tt0204091
+340,1987-05-03,Superstars and Their Moms,,"('family',)",tt2262165
+341,1987-01-28,The Simon Wiesenthal Center Annual Humanitarian Awards Honoring Anatoly Scharansky,,"('reality-tv',)",tt2165284
+342,1975-02-03,ZiB 2,7.8,"('news',)",tt1342151
+343,1985-06-13,Mensch Meier,8.7,"('game-show', 'music', 'talk-show')",tt0289647
+344,1982-01-09,Champs-Elysées,6.2,"('music',)",tt0353048
+345,1983-02-01,Good Morning Britain,5.4,"('news',)",tt0199220
+346,1985-05-10,Saturday Night's Main Event,7.7,"('sport',)",tt0783198
+347,1984-10-31,Regis Philbin's Lifestyles,6.2,"('talk-show',)",tt1025006
+348,1982-02-10,De película,8.5,(),tt0372654
+349,1982-03-29,Na sowas!,6.8,"('comedy', 'game-show', 'music')",tt0083451
+350,1984-04-09,The 56th Annual Academy Awards,6.1,"('documentary',)",tt0353136
+351,1984-01-01,The Making of 'Terminator',7.5,"('documentary', 'short')",tt0267719
+352,,The Man in the Iron Cage,,"('documentary', 'sport')",tt8364026
+353,,Carnival in Rio,6.2,"('documentary',)",tt0085300
+354,1983-05-27,James Bond: The First 21 Years,7.2,"('documentary',)",tt0401537
+355,1982-11-24,Shape Up with Arnold,,"('documentary',)",tt8900986
+356,,Body by Garret,6.2,"('documentary', 'short')",tt0397347
+357,1982-11-24,The Making of 'Superman II',7.0,"('documentary',)",tt0319794
+358,,Our Voices Ourselves,5.8,"('documentary',)",tt0283527
+359,1977-01-15,Auf los geht's los,6.8,"('game-show',)",tt0324694
+360,1976-08-09,Evening Magazine,7.0,"('news',)",tt0231023
+361,1962-10-01,The Merv Griffin Show,6.7,"('comedy', 'family', 'music', 'talk-show')",tt0055691
+362,1973-10-15,The Tomorrow Show,7.5,"('talk-show',)",tt0158435
+363,,The Comeback,6.6,"('documentary', 'action')",tt0299690
+364,1976-09-20,The Alan Hamel Show,6.1,"('talk-show',)",tt0196235
+365,1974-10-21,Dinah!,7.2,"('comedy', 'music', 'talk-show')",tt0070982
+366,1961-12-11,The Mike Douglas Show,7.1,"('comedy', 'music', 'talk-show')",tt0170980
+367,,A.M. Chicago,4.2,"('talk-show',)",tt1539097
+368,,Playboy's Playmate Party,,"('short',)",tt7394652
+369,1971-05-09,V.I.P.-Schaukel,7.8,"('documentary',)",tt0344743
+370,1977-05-24,This Is America,6.1,"('documentary',)",tt0141901
+371,1967-11-26,Apropos Film,8.2,"('documentary',)",tt2303071
+372,1977-01-29,The 34th Annual Golden Globe Awards,7.8,(),tt0881175
+373,1977-01-18,Pumping Iron,7.4,"('documentary', 'sport')",tt0076578
+374,1967-11-24,The Bob Braun Show,5.2,"('talk-show',)",tt1229032
+375,1961-04-29,ABC's Wide World of Sports,7.2,"('sport',)",tt0190895
+376,1965-12-20,The Dating Game,5.7,"('game-show', 'romance')",tt0058795
+377,1910-11-24,British Pathé News,6.7,"('news',)",tt4046852
+378,2004-03-04,Pimp My Ride,5.7,"('reality-tv',)",tt0395891
+379,2003-11-24,Famous,4.8,(),tt0382416
+380,,LA DA Story,,"('documentary', 'history', 'news')",tt8296408
+381,2007-02-15,Episode #4.5,,"('comedy', 'music', 'talk-show')",tt1124777
+382,1971-11-22,A Current Affair,2.0,"('news',)",tt0190177
+383,1981-09-14,Entertainment Tonight,3.6,"('news',)",tt0081857
+384,1994-09-05,Extra,3.5,"('news',)",tt0247094
+385,1982-02-03,Odlucujuca utakmica,,"('comedy',)",tt1071514
+386,1995-12-13,Karen Salmansohn,,"('talk-show',)",tt1082455
+387,2016-04-12,Jones & Co,,"('talk-show',)",tt6586372
+388,2010-04-05,Paul Murray Live,5.0,"('news', 'sport', 'talk-show')",tt6518878
+389,2019-02-06,La fabrique d'Arnold Schwarzenegger,6.4,"('documentary', 'biography')",tt9712484
+390,2007-05-08,Episode dated 8 May 2007,,"('news', 'talk-show')",tt1021503
+391,2017-11-20,Credlin,,"('news', 'talk-show')",tt7657494
+392,1994-09-17,Les enfants de la télé,4.6,"('talk-show',)",tt0364157
+393,2018-10-03,Der Kurier des Kaisers,,"('documentary', 'comedy')",tt9252434
+394,2018-09-10,The '90s Greatest,6.7,"('documentary',)",tt8977568
+395,2018-08-13,The '80s Greatest,8.1,"('documentary',)",tt8906712
+396,2005-04-10,Weekend Sunrise,4.6,"('news', 'talk-show')",tt0872065
+397,2014-04-28,Good Morning Britain,3.5,"('news', 'talk-show')",tt3644198
+398,2010-07-23,The Drum,5.9,"('news',)",tt2427790
+399,2007-06-16,The Cinema Snob,8.2,"('comedy',)",tt1871111
+400,2014-08-28,Histoire Brève,,"('documentary',)",tt7958424
+401,2017-11-25,Hell's Club Part 2. Another Night,7.4,"('short',)",tt7808628
+402,2013-01-05,Talking Pictures,8.5,"('documentary',)",tt4666458
+403,2017-11-28,Vegan 2017,8.0,"('documentary',)",tt7688694
+404,2008-11-25,ABC News Breakfast,6.5,"('news',)",tt3310362
+405,2017-11-01,Workers Con,,"('documentary', 'crime', 'drama', 'family', 'history')",tt4953026
+406,2017-10-11,Joan Didion: The Center Will Not Hold,7.4,"('documentary',)",tt7253506
+407,,Today,4.1,"('news', 'talk-show')",tt0343316
+408,2017-10-04,"Blockbusters 80, la folle décennie d'Hollywood",6.3,"('documentary',)",tt7131796
+409,,Sunrise,3.6,"('news', 'talk-show')",tt0428169
+410,2017-01-30,Heads Up,,"('news', 'talk-show')",tt6500140
+411,2017-08-02,Die Arnold Schwarzenegger Story,,"('documentary',)",tt9603302
+412,2009-02-01,Weekend Today,,"('news', 'talk-show')",tt1542583
+413,2016-05-11,Chelsea,6.2,"('comedy', 'talk-show')",tt5672036
+414,2010-10-25,Blow up,7.4,"('documentary',)",tt9253782
+415,2014-02-17,The Tonight Show Starring Jimmy Fallon,7.4,"('comedy', 'music', 'talk-show')",tt3444938
+416,2011-11-25,Non mais t'as vu ce que t'écoutes,6.8,"('music',)",tt5623078
+417,2017-02-17,Falco - Die ultimative Doku,,"('documentary',)",tt6576950
+418,2012-02-06,Mornings,5.0,"('talk-show',)",tt2170994
+419,2003-01-26,Jimmy Kimmel Live!,6.7,"('comedy', 'music', 'talk-show')",tt0320037
+420,2015-09-14,Hollywood Today Live,5.5,"('talk-show',)",tt3884604
+421,2016-12-28,Die Öscars,,"('documentary',)",tt6380514
+422,2004-09-13,The Insider,2.6,"('news',)",tt0430836
+423,2016-09-10,I Am Not Your Negro,7.8,"('documentary',)",tt5804038
+424,2016-08-25,Wie ich berühmt werden wollte,,"('short', 'comedy')",tt6656780
+425,1986-01-07,The 7.30 Report,6.3,"('news',)",tt1782248
+426,2014-01-03,The Drunken Peasants,6.8,"('comedy', 'game-show', 'news', 'talk-show')",tt4823212
+427,2009-07-20,The 7PM Project,5.0,"('comedy', 'news', 'talk-show')",tt1480165
+428,2016-04-23,Arnie's 50 Greatest Ever Stunts,,"('biography',)",tt9598246
+429,2016-03-06,Race for the White House,7.8,"('documentary', 'drama', 'history')",tt5194802
+430,2015-11-19,Herr von Bohlen privat,7.1,"('documentary',)",tt5097032
+431,1958-11-25,A Clean Sweep,5.8,"('short', 'comedy')",tt1091749
+432,2015-11-04,Corrupted Justice,,"('documentary', 'drama', 'history', 'mystery', 'news')",tt4847918
+433,2015-09-17,Dare2Dream: The Flex Wheeler Story,7.9,"('documentary',)",tt5337444
+434,2012-01-13,Welcome to the Basement,8.2,"('comedy',)",tt4416750
+435,,Inside Edition,3.9,"('documentary', 'news')",tt0166442
+436,2013-03-23,GradeAUnderA,7.3,"('animation', 'comedy', 'talk-show')",tt6854098
+437,1996-10-07,The O'Reilly Factor,3.5,"('news', 'talk-show')",tt0284767
+438,2012-12-11,Everything Wrong with...,7.0,"('comedy',)",tt3498954
+439,2015-06-22,Terminator Genisys: The YouTube Chronicles,5.0,"('action', 'comedy', 'sci-fi')",tt4824394
+440,2015-02-22,The Third Annual 'On Cinema' Oscar Special,8.8,"('comedy',)",tt4487148
+441,1993-01-11,WWE Monday Night RAW,7.8,"('action', 'sport')",tt0185103
+442,2008-02-06,Rude Tube,5.4,"('comedy', 'reality-tv')",tt1405257
+443,2010-01-31,That's Life!! Kilorenzos Smith in Talks...,6.6,"('documentary', 'biography', 'comedy', 'family', 'reality-tv', 'talk-show')",tt6987380
+444,1968-09-24,60 Minutes,7.4,"('documentary', 'news')",tt0123338
+445,2013-09-08,Media Buzz,4.6,"('news',)",tt3214446
+446,2004-08-30,Le grand journal de Canal+,5.7,"('documentary', 'comedy', 'talk-show')",tt0426701
+447,2014-03-30,Top 40 Ultimate Action Movies,7.7,"('documentary',)",tt3638726
+448,2010-12-06,Death Battle,7.7,"('animation', 'action', 'comedy')",tt4031218
+449,1998-02-01,Fox and Friends,3.4,"('news', 'talk-show')",tt0185065
+450,2013-12-12,Arnold Schwarzenegger: Kill Count,,"('short', 'action')",tt3618906
+451,2013-11-19,The History of WWE: 50 Years of Sports Entertainment,7.7,"('documentary', 'action', 'sport')",tt3304474
+452,2013-09-24,WWE: Triple H - Thy Kingdom Come,8.1,"('action', 'biography', 'sport')",tt3103128
+453,2013-04-11,Movie Guide,7.6,"('action', 'news', 'talk-show')",tt2841688
+454,2012-10-15,Le Fossoyeur de Films,8.2,"('documentary',)",tt6217376
+455,2013-06-21,Go Figure!,7.3,"('comedy',)",tt3002378
+456,2013-05-21,The Dinkum Firearm and Historic Weaponry Museum Tour,,"('short',)",tt3159776
+457,2007-05-03,Wir sind Kaiser,7.5,"('comedy', 'talk-show')",tt1296328
+458,2010-08-16,Edición Especial Coleccionista,6.7,"('comedy', 'history')",tt1749539
+459,2013-04-14,The '80s: The Decade That Made Us,8.3,"('documentary',)",tt2801364
+460,2007-02-22,The Graham Norton Show,8.4,"('comedy', 'music', 'talk-show')",tt0924651
+461,1979-11-25,CBS News Sunday Morning,7.8,"('news',)",tt0165001
+462,2007-07-25,Chelsea Lately,6.0,"('comedy', 'talk-show')",tt1002838
+463,2012-11-20,Gods of War: Assembling Earth's Mightiest Anti-Heroes,7.3,"('documentary', 'short')",tt2546412
+464,2012-11-14,Creating a Candidate,,"('documentary', 'short', 'biography', 'history')",tt6283648
+465,1992-05-25,The Tonight Show with Jay Leno,5.2,"('comedy', 'music', 'talk-show')",tt0103569
+466,2012-01-09,CBS This Morning,5.3,"('news',)",tt2163227
+467,2012-06-13,Everybody Is in the Expendables Sequel,,"('short', 'comedy')",tt8674758
+468,2012-02-09,The Pinball Arcade,6.5,"('family',)",tt2667950
+469,2012-02-04,Final Cut: Hölgyeim és uraim,8.1,"('comedy', 'drama', 'romance')",tt2243299
+470,2007-06-21,American Greed,8.1,"('documentary', 'crime')",tt1190931
+471,2004-11-25,Dorfers Donnerstalk,7.4,"('comedy',)",tt0488450
+472,2011-02-11,Österreich wählt,5.2,(),tt1873526
+473,2007-07-25,The Nostalgia Critic,7.8,"('comedy',)",tt1635327
+474,2011-07-29,Dreamland: La terra dei sogni,2.8,"('drama',)",tt1832334
+475,2011-07-06,The Lost Kennedy Home Movies,8.2,"('documentary', 'history')",tt1981709
+476,2007-05-31,Willkommen Österreich,7.5,"('comedy', 'talk-show')",tt1523395
+477,2010-11-08,Conan,8.1,"('comedy', 'music', 'talk-show')",tt1637574
+478,2011-04-27,Brows Held High,8.1,"('comedy',)",tt2012155
+479,2011-02-18,Muscle Beach Then and Now,6.6,"('documentary',)",tt1189899
+480,2011-01-23,Reagan,7.4,"('documentary', 'biography')",tt1822382
+481,2011-08-01,Close Up,7.2,"('biography',)",tt2132638
+482,2010-10-19,Decloaking the Invisible: Alien Terrain,7.8,"('short',)",tt1753680
+483,2010-07-28,I Want Your Money,4.7,"('documentary',)",tt1560957
+484,2000-05-11,Die großen Kriminalfälle,7.8,"('documentary',)",tt0791374
+485,2010-05-04,Never Sleep Again: The Elm Street Legacy,8.7,"('documentary', 'horror')",tt1510985
+486,2005-09-29,20 to 1,6.0,"('documentary',)",tt0800968
+487,2010-04-01,Dexter Jackson: Unbreakable,6.8,"('documentary', 'sport')",tt1876295
+488,2010-02-13,Card Subject to Change,6.7,"('documentary',)",tt0816362
+489,2009-06-01,The Tonight Show with Conan O'Brien,8.0,"('comedy', 'music', 'talk-show')",tt0899126
+490,1999-04-27,WWF SmackDown!,7.3,"('action', 'sport')",tt0227972
+491,2009-09-24,Premio Donostia a Ian McKellen,9.2,"('short',)",tt1517235
+492,2009-09-06,Capitalism: A Love Story,7.4,"('documentary', 'crime', 'news')",tt1232207
+493,2009-09-01,Where Muscles Were Born,,"('drama',)",tt1511519
+494,2009-07-16,Pop Galerie Reloaded,,"('documentary', 'music')",tt1464684
+495,2009-05-25,Still Pumping,7.6,"('documentary', 'short')",tt1612809
+496,2009-05-15,Farrah's Story,8.8,"('documentary',)",tt1437356
+497,2009-04-14,WWE: Greatest Stars of the '90s,7.7,"('action', 'sport')",tt1393836
+498,2009-02-10,How the Earth Was Made,7.9,"('documentary', 'history')",tt1591535
+499,2006-11-16,Weltberühmt in Österreich - 50 Jahre Austropop,4.9,"('documentary',)",tt1600739
+500,2008-11-25,All Jacked Up,6.9,"('documentary',)",tt0953300
+501,2001-07-15,Insiders,7.6,"('talk-show',)",tt0949791
+502,2008-10-25,Secrets of Body Language,6.9,"('documentary',)",tt1833076
+503,1983-01-17,Frontline,8.5,"('documentary',)",tt0133302
+504,2008-08-02,The Burning Season,7.0,"('documentary',)",tt1321813
+505,2008-06-16,Just In with Laura Ingraham,3.5,"('news', 'talk-show')",tt1249227
+506,2008-06-23,I Love the New Millennium,7.4,"('comedy',)",tt1137430
+507,2008-03-26,1 quart de 3,6.3,(),tt1209389
+508,2008-04-08,Killer at Large,7.2,"('documentary',)",tt0903660
+509,2008-04-07,5 Second Movies,6.8,"('comedy',)",tt1566050
+510,2008-03-25,Mike Douglas: Moments & Memories,9.5,"('talk-show',)",tt1687250
+511,1969-09-13,Ajankohtainen kakkonen,6.3,"('news',)",tt0403723
+512,1981-02-14,"Wetten, dass..?",5.8,"('comedy', 'game-show', 'music')",tt0081961
+513,2005-04-17,THS Investigates,6.6,"('documentary',)",tt0460950
+514,2007-11-18,The Blair Years,6.3,"('documentary',)",tt1145490
+515,1990-09-28,Have I Got News for You,8.0,"('comedy', 'game-show', 'news')",tt0098820
+516,1995-01-01,Modern Marvels,8.1,"('documentary', 'history')",tt0199248
+517,2007-10-17,Maquillando entre monstruos,6.4,"('documentary',)",tt1127850
+518,2007-09-18,Commando: Pure Action,6.1,"('documentary',)",tt1148245
+519,2007-09-18,Commando: Let Off Some Steam,6.2,"('documentary',)",tt1148244
+520,2007-07-22,Arnold Schwarzenegger: 'I'll Be Back',6.5,"('documentary',)",tt1062371
+521,2005-10-17,The Colbert Report,8.4,"('comedy', 'news', 'talk-show')",tt0458254
+522,2007-04-10,Fernsehkritik TV,7.7,"('news',)",tt3594262
+523,2007-05-19,The 11th Hour,7.3,"('documentary',)",tt0492931
+524,2007-03-15,Ein Leben wie im Flug,5.7,"('biography',)",tt1013918
+525,2007-03-01,Global Warming: Our Searing Earth,,"('documentary',)",tt1708474
+526,2006-11-25,Sledstvie veli...,7.8,"('documentary', 'crime', 'reality-tv')",tt4573370
+527,2007-02-01,Falco lebt!,,"('documentary', 'music')",tt2298325
+528,1972-09-11,Canada A.M.,5.9,"('news',)",tt0341708
+529,2006-10-25,Running with Arnold,4.4,"('documentary',)",tt0386757
+530,2006-10-05,RoboCop vs Terminator,6.4,"('short', 'action', 'sci-fi')",tt1562419
+531,2006-03-19,Hollywood Science,7.1,"('documentary',)",tt0816381
+532,2006-09-14,...So Goes the Nation,6.6,"('documentary',)",tt0432337
+533,2006-07-09,I Love the '70s: Volume 2,7.7,"('comedy',)",tt0830356
+534,2006-06-14,A/k/a Tommy Chong,7.3,"('documentary',)",tt0478090
+535,2006-05-19,Boffo! Tinseltown's Bombs and Blockbusters,6.4,"('documentary',)",tt0805497
+536,1992-11-25,Ten News at Five (Melbourne),,"('news',)",tt2105968
+537,2006-04-14,Arnold Schwarzenegger: Made in Britain,,"('documentary',)",tt1633290
+538,2001-07-14,The Worst First Date Ever. Period,6.9,"('animation', 'comedy', 'family', 'romance')",tt1035889
+539,2006-01-23,Who Killed the Electric Car?,7.7,"('documentary',)",tt0489037
+540,,Taff,2.6,"('news', 'talk-show')",tt0355143
+541,2005-11-10,California and the American Dream,,"('documentary', 'history')",tt0831375
+542,2005-10-18,Shadows of the Bat: The Cinematic Saga of the Dark Knight - Batman Unbound,5.9,"('documentary', 'short')",tt0486908
+543,2005-05-24,"Manolito Espinberg, une vie de cinéma",5.1,"('short', 'comedy')",tt0457056
+544,2005-04-22,Enron: The Smartest Guys in the Room,7.6,"('documentary', 'biography', 'history')",tt1016268
+545,2005-03-25,Martial Law 9/11: Rise of the Police State,7.1,"('documentary', 'war')",tt0462415
+546,2005-03-29,AC/DC: Family Jewels,8.5,"('music',)",tt0476635
+547,2005-01-25,This Revolution,5.4,"('drama', 'romance', 'thriller', 'war')",tt0423370
+548,1999-08-09,Independent Lens,7.9,"('documentary',)",tt0486531
+549,2005-01-17,I Love the '90s: Part Deux,7.8,"('comedy', 'documentary')",tt0441716
+550,2004-11-25,A Stuntman for All Seasons: A Tribute to Bennie Dobbins,6.3,"('documentary', 'short')",tt0416242
+551,2004-11-25,East Meets West: 'Red Heat' and the Kings of Carolco,5.2,"('documentary', 'short')",tt0415773
+552,1987-04-06,Biography,7.8,"('documentary', 'biography')",tt0092322
+553,2004-12-12,Last Laugh '04,4.7,"('comedy',)",tt0437932
+554,2002-10-17,Sendung ohne Namen,8.2,"('documentary', 'comedy', 'news')",tt0892644
+555,2004-11-14,Retrosexual: The 80's,5.1,"('documentary',)",tt0435578
+556,2004-09-26,101 Most Unforgettable SNL Moments,5.1,"('documentary', 'comedy')",tt0426384
+557,2004-09-14,Rated 'R': Republicans in Hollywood,4.9,"('documentary',)",tt0425390
+558,2004-08-24,Terminator 3: Redemption,7.0,"('action', 'adventure', 'sci-fi', 'thriller')",tt0402527
+559,2004-06-01,WWE Hall of Fame 2004,7.8,"('sport',)",tt0417250
+560,2004-03-02,101 Biggest Celebrity Oops,4.1,"('documentary', 'comedy')",tt0402720
+561,2003-06-04,Celebrities Uncensored,4.9,"('reality-tv',)",tt0403738
+562,,The Screen Savers,8.6,"('talk-show',)",tt0240295
+563,2003-12-27,TV 2 003 - Året i ord og billeder,4.0,"('documentary',)",tt0486490
+564,2003-12-27,Året der gik 2003,4.5,"('music', 'news')",tt0388560
+565,2003-12-25,Starring - Taina Elg,6.4,"('documentary', 'biography')",tt0391469
+566,2003-12-07,The Award Show Awards Show,4.8,"('documentary',)",tt0397037
+567,2003-11-11,Christmas from Hollywood,7.5,"('documentary', 'family')",tt0447615
+568,1996-09-25,Le vrai journal,5.0,"('documentary', 'comedy')",tt0295138
+569,2001-09-06,"Campus, le magazine de l'écrit",6.2,"('documentary',)",tt0364154
+570,2003-09-23,Sex at 24 Frames Per Second,6.3,"('documentary',)",tt0383630
+571,1996-11-25,E! True Hollywood Story,6.6,"('documentary', 'biography')",tt0463399
+572,2002-02-10,Playboy: Inside the Playboy Mansion,4.4,"('documentary',)",tt0355570
+573,,El informal,7.5,"('comedy', 'news')",tt0267189
+574,2001-06-19,Dr. Dolittle 2,4.7,"('comedy', 'family', 'fantasy')",tt0240462
+575,,"Kino kolossal - Herkules, Maciste & Co",5.3,"('documentary',)",tt0317836
+576,1999-11-25,"Tough Guise: Violence, Media & the Crisis in Masculinity",7.2,"('documentary',)",tt1139643
+577,1999-10-25,Biography of the Millennium: 100 People - 1000 Years,7.1,"('documentary', 'biography', 'history')",tt0396288
+578,1998-11-25,... y otras mujeres de armas tomar,7.7,"('documentary', 'biography')",tt1355540
+579,1998-11-25,Femmes Fatales: Sharon Stone,4.0,"('documentary', 'biography')",tt0787466
+580,1998-11-25,Sauna-Report Deutschland - Die nackte Lust am Schwitzen,4.5,"('documentary', 'sport')",tt0380688
+581,,Falco - Hoch wie nie,5.6,(),tt0365180
+582,1998-02-13,Sharon Stone - Una mujer de 100 caras,7.6,"('documentary', 'biography')",tt1355595
+583,1990-11-25,Tohuwabohu,7.6,"('comedy',)",tt0114686
+584,,Before They Were Famous,5.9,"('comedy',)",tt0118267
+585,1996-11-23,Bob Hope: Laughing with the Presidents,7.6,"('comedy', 'documentary')",tt0115720
+586,1996-04-21,The Universal Story,7.3,"('documentary',)",tt0114793
+587,,Empire of the Censors,8.1,"('documentary',)",tt0294070
+588,1995-04-28,True Lies,7.2,"('action',)",tt0423412
+589,1994-11-25,"Arnold, the Man Behind the Muscle",,"('documentary',)",tt5231732
+590,1993-09-03,Full Disclosure Network,,"('news', 'history', 'crime', 'reality-tv', 'talk-show')",tt3885660
+591,1993-01-06,Fame in the Twentieth Century,8.0,"('documentary',)",tt0128875
+592,1992-11-01,Saturday Night Live: Presidential Bash,6.4,"('comedy',)",tt0424406
+593,1962-10-01,The Tonight Show Starring Johnny Carson,8.4,"('comedy', 'talk-show')",tt0055708
+594,1992-05-22,Encino Man,5.8,"('comedy',)",tt0104187
+595,1982-11-25,Not Necessarily the News,7.4,"('comedy',)",tt0085065
+596,1989-04-29,Off Your Duff,,"('documentary',)",tt0772188
+597,1975-10-11,Saturday Night Live,8.1,"('comedy', 'music')",tt0072562
+598,1984-10-04,Hollywood '84,5.8,"('documentary',)",tt3028002
+599,1981-10-11,"Margret Dünser, auf der Suche nach den Besonderen",8.2,"('documentary',)",tt0355749
+600,2001-10-19,Hollywood Rivals,4.7,"('biography',)",tt8259862
+601,2015-03-16,Wogan: The Best Of,,"('talk-show',)",tt4528870
+602,,Outrider,,"('western',)",tt7974256
+603,,Triplets,,"('comedy',)",tt2334867
+604,2007-05-14,Episode dated 14 May 2007,,"('comedy', 'drama', 'romance')",tt1040891
+605,,Kung Fury 2,,"('action', 'comedy', 'crime', 'sci-fi')",tt5765844
+606,2019-10-23,Terminator: Dark Fate,6.5,"('action', 'adventure', 'sci-fi')",tt6450804
+607,2019-08-16,Viy 2,4.7,"('action', 'adventure', 'fantasy')",tt6218010
+608,2007-09-20,Episode #1.54,,"('drama',)",tt1092238
+609,2017-09-22,Killing Gunther,4.7,"('action', 'comedy', 'thriller')",tt5689068
+610,2017-04-06,Aftermath,5.7,"('drama', 'thriller')",tt4581576
+611,2015-06-22,Terminator Genisys: The YouTube Chronicles,5.0,"('action', 'comedy', 'sci-fi')",tt4824394
+612,2010-09-26,Epic Rap Battles of History,8.2,"('short', 'comedy', 'history', 'music')",tt2039625
+613,2015-06-21,Terminator Genisys,6.4,"('action', 'adventure', 'sci-fi')",tt1340138
+614,2015-04-22,Maggie,5.6,"('drama', 'horror')",tt1881002
+615,2003-09-22,Two and a Half Men,7.0,"('comedy', 'romance')",tt0369179
+616,2014-11-25,Sabotage: Deleted Scenes,6.9,"('short', 'action')",tt8935206
+617,2014-11-25,Sabotage: Alternate Endings:,6.4,"('short', 'action')",tt8935200
+618,2014-08-04,The Expendables 3,6.1,"('action', 'adventure', 'thriller')",tt2333784
+619,2014-04-10,Family Guy: The Quest for Stuff,5.9,"('adventure', 'comedy')",tt4916238
+620,2014-03-19,Sabotage,5.7,"('action', 'crime', 'drama', 'thriller', 'western')",tt1742334
+621,2014-01-31,Bud Light: Ian Up for Whatever,5.4,"('short', 'comedy')",tt8290264
+622,2013-07-18,Escape Plan,6.7,"('action', 'thriller')",tt1211956
+623,2013-01-12,The Last Stand,6.3,"('action', 'thriller', 'western')",tt1549920
+624,2012-08-08,The Expendables 2,6.6,"('action', 'adventure', 'thriller')",tt1764651
+625,2010-08-03,The Expendables,6.5,"('action', 'adventure', 'thriller')",tt1320253
+626,2005-12-02,The Kid & I,5.3,"('comedy',)",tt0416891
+627,2004-06-13,Around the World in 80 Days,5.9,"('action', 'adventure', 'comedy', 'family', 'western')",tt0327437
+628,2003-11-25,Terminator 3: Rise of the Machines,6.3,"('action', 'adventure', 'crime', 'fantasy', 'sci-fi', 'thriller')",tt0364056
+629,2003-09-22,The Rundown,6.7,"('action', 'adventure', 'comedy', 'thriller')",tt0327850
+630,2003-06-30,Terminator 3: Rise of the Machines,6.3,"('action', 'sci-fi')",tt0181852
+631,2002-09-02,Liberty's Kids: Est. 1776,7.9,"('animation', 'adventure', 'drama', 'family', 'history', 'mystery')",tt0337550
+632,2002-02-04,Collateral Damage,5.5,"('action', 'drama', 'thriller')",tt0233469
+633,2000-10-28,The 6th Day,5.9,"('action', 'mystery', 'sci-fi', 'thriller')",tt0216216
+634,2000-09-25,Bon Jovi: Say It Isn't So,7.0,"('short', 'music')",tt7043958
+635,1999-11-16,End of Days,5.8,"('action', 'fantasy', 'horror', 'thriller')",tt0146675
+636,1997-11-25,Batman & Robin,3.7,"('action', 'sci-fi')",tt0118688
+637,1996-11-16,Jingle All the Way,5.6,"('comedy', 'family')",tt0116705
+638,1996-06-11,Eraser,6.1,"('action', 'drama', 'thriller')",tt0116213
+639,1996-04-27,T2 3-D: Battle Across Time,7.7,"('short', 'action', 'sci-fi')",tt0117880
+640,1994-11-14,Junior,4.6,"('comedy', 'romance', 'sci-fi')",tt0110216
+641,1994-07-12,True Lies,7.2,"('action', 'comedy', 'thriller')",tt0111503
+642,1993-08-23,Beretta's Island,2.7,"('action', 'adventure', 'crime', 'thriller')",tt0138322
+643,1993-06-13,Last Action Hero,6.4,"('action', 'adventure', 'comedy', 'fantasy')",tt0107362
+644,1993-05-24,AC/DC: Big Gun,7.8,"('short', 'music')",tt8673008
+645,1993-11-25,Dave,6.8,"('comedy', 'romance')",tt0106673
+646,1992-12-26,Lincoln,6.8,"('biography', 'history')",tt0104732
+647,1992-04-13,Christmas in Connecticut,4.8,"('comedy', 'romance')",tt0103961
+648,1991-11-25,Nissin Cup Noodle: Arnold Schwarzenegger,5.6,"('short', 'comedy')",tt8721720
+649,1991-11-25,Guns N' Roses: You Could Be Mine,7.9,"('short', 'music')",tt5707430
+650,1991-11-25,Terminator 2: The Arcade Game,7.6,"('action', 'sci-fi', 'thriller')",tt0301927
+651,1991-07-01,Terminator 2: Judgment Day,8.5,"('action', 'sci-fi')",tt0103064
+652,1990-11-25,Nissin Cup Noodle: Arnold Schwarzenegger 'Noodle Man',5.6,"('short', 'comedy')",tt8721718
+653,1990-11-25,Kindergarten Cop,6.1,"('comedy', 'crime')",tt0099938
+654,1990-05-31,Total Recall,7.5,"('action', 'sci-fi', 'thriller')",tt0100802
+655,1989-06-10,Tales from the Crypt,8.0,"('comedy', 'crime', 'fantasy', 'horror', 'thriller')",tt0096708
+656,1988-12-08,Twins,6.1,"('comedy', 'crime')",tt0096320
+657,1988-06-14,Red Heat,6.1,"('action', 'comedy', 'crime', 'thriller')",tt0095963
+658,1987-11-13,The Running Man,6.7,"('action', 'sci-fi', 'thriller')",tt0093894
+659,1987-11-25,Predator,7.8,"('action', 'adventure', 'sci-fi', 'thriller')",tt0093773
+660,1986-06-06,Raw Deal,5.6,"('action', 'crime', 'thriller')",tt0091828
+661,1986-01-17,Stop the Madness,5.3,"('short', 'music')",tt8571360
+662,1985-10-04,Commando,6.7,"('action', 'adventure', 'thriller')",tt0088944
+663,1985-07-03,Red Sonja,5.1,"('action', 'adventure', 'fantasy')",tt0089893
+664,1984-10-26,The Terminator,8.0,"('action', 'sci-fi')",tt0088247
+665,1984-06-29,Conan the Destroyer,5.9,"('action', 'adventure', 'fantasy')",tt0087078
+666,1982-04-02,Conan the Barbarian,6.9,"('action', 'adventure', 'fantasy')",tt0082198
+667,1980-10-29,The Jayne Mansfield Story,5.2,"('biography', 'drama')",tt0080947
+668,1979-12-21,Scavenger Hunt,6.0,"('comedy',)",tt0079858
+669,1979-11-25,The Villain,5.4,"('comedy', 'western')",tt0080097
+670,1977-09-19,The San Pedro Beach Bums,6.4,"('comedy',)",tt0075575
+671,1972-09-16,The Streets of San Francisco,7.3,"('action', 'crime', 'drama', 'mystery')",tt0068135
+672,1976-04-25,Stay Hungry,5.6,"('comedy', 'drama')",tt0075268
+673,1974-11-19,Happy Anniversary and Goodbye,5.8,"('comedy',)",tt0438076
+674,1973-03-07,The Long Goodbye,7.6,"('comedy', 'crime', 'drama', 'mystery', 'thriller')",tt0070334
+675,1970-02-25,Hercules in New York,3.3,"('adventure', 'family', 'fantasy')",tt0065832
+676,,Pump,,"('drama',)",tt5908456
+677,,The Legend of Conan,,"('action', 'adventure', 'fantasy')",tt2479722
+678,,Outrider,,"('western',)",tt7974256
+679,2007-05-14,Episode dated 14 May 2007,,"('comedy', 'drama', 'romance')",tt1040891
+680,2019-08-16,Viy 2,4.7,"('action', 'adventure', 'fantasy')",tt6218010
+681,2018-01-19,The Game Changers,8.2,"('documentary',)",tt7455754
+682,2017-05-20,Wonders of the Sea 3D,6.4,"('documentary',)",tt5495792
+683,2017-09-22,Killing Gunther,4.7,"('action', 'comedy', 'thriller')",tt5689068
+684,2017-04-06,Aftermath,5.7,"('drama', 'thriller')",tt4581576
+685,2004-01-08,The Apprentice,5.0,"('game-show', 'reality-tv')",tt0364782
+686,2014-04-13,Years of Living Dangerously,8.5,"('documentary',)",tt2963070
+687,2015-04-22,Maggie,5.6,"('drama', 'horror')",tt1881002
+688,2000-10-28,The 6th Day,5.9,"('action', 'mystery', 'sci-fi', 'thriller')",tt0216216
+689,1993-06-13,Last Action Hero,6.4,"('action', 'adventure', 'comedy', 'fantasy')",tt0107362
+690,,Pump,,"('drama',)",tt5908456
+691,2017-09-22,Killing Gunther,4.7,"('action', 'comedy', 'thriller')",tt5689068
+692,2016-09-09,Mardi Gras: Spring Break,9.5,"('short', 'comedy', 'music')",tt6044572
+693,2016-08-23,Donald Little Hands,2.8,"('short', 'comedy')",tt5994358
+694,2016-08-16,Walking After You,4.8,"('short', 'crime', 'drama', 'horror', 'thriller')",tt5980720
+695,2012-06-01,Railroader,7.9,"('drama', 'sci-fi')",tt2210198
+696,2009-12-12,Salmagundi,8.7,"('documentary', 'short', 'history', 'news')",tt1479799
+697,2009-07-03,Kambakkht Ishq,3.8,"('action', 'comedy', 'romance')",tt1144804
+698,2004-09-18,Study Hall,6.6,"('short', 'comedy')",tt0461591
+699,,Raw Iron: The Making of 'Pumping Iron',7.3,"('documentary',)",tt0369866
+700,2002-11-15,Iron and Beyond,6.6,"('documentary', 'short', 'biography')",tt0431836
+701,2001-11-20,Dirty Harry: The Original,6.8,"('documentary', 'short')",tt0357603
+702,2001-03-19,Other Voices: Creating 'The Terminator',7.3,"('documentary', 'sci-fi')",tt0365601
+703,2001-07-24,The 6th Day: The Future Is Coming,6.2,"('documentary', 'short')",tt3309504
+704,1996-11-25,Cigars!: The New Rage!,,"('documentary',)",tt5735920
+705,1995-11-25,The Crypt Keeper Presents: A Spine-Tingling Look at Tales from the Crypt,,"('documentary', 'short', 'comedy', 'horror')",tt5119782
+706,2001-03-19,The Making of 'The Terminator': A Retrospective,6.5,"('documentary', 'short')",tt0365473
+707,1992-05-22,Encino Man,5.8,"('comedy',)",tt0104187
+708,1992-04-13,Christmas in Connecticut,4.8,"('comedy', 'romance')",tt0103961
+709,1989-06-10,Tales from the Crypt,8.0,"('comedy', 'crime', 'fantasy', 'horror', 'thriller')",tt0096708
