@@ -1,0 +1,283 @@
+var myConfig = {
+  "type":"treemap",
+  "options":{
+      "split-type":"balanced",
+      "color-type":"palette",
+      "palette":["#f44336","#29b6f6","#ab47bc","#ffc107","#5c6bc0","#009688"]
+  },
+  "plotarea":{
+    "margin": "0 0 35 0"
+  },
+  "series":[
+      {
+          "text":"Action",
+          "children":[
+              {
+                  "text":"1980s",
+                  "value":302981233
+              },
+              {
+                  "text":"1990s",
+                  "value":2124220999
+              },
+              {
+                  "text":"2000s",
+                  "value":859760255
+              }, 
+              {   "text":"2010s",
+                  "value":1697206336
+              }
+          ]
+      },
+      {
+          "text":"Adventure",
+          "children":[
+              {
+                  "text":"1980s",
+                  "value":224610033
+              },
+              {
+                  "text":"1990s",
+                  "value":274596978
+              },
+              {
+                  "text":"2000s",
+                  "value":152836816
+              }, 
+              {   "text":"2010s",
+                  "value":1494038760
+              }
+          ]
+      },
+      {
+          "text":"Biography",
+          "children":[
+              {
+                  "text":"2000s",
+                  "value":4854164
+              }
+          ]
+      },
+      {
+          "text":"Comedy",
+          "children":[
+              {
+                  "text":"1980s",
+                  "value":216614388
+              },
+              {
+                  "text":"1990s",
+                  "value":1093700821
+              },
+              {
+                  "text":"2000s",
+                  "value":331940100
+              }
+          ]
+      },
+      {
+          "text":"Crime",
+          "children":[
+              {
+                  "text":"1980s",
+                  "value":216614388
+              },
+              {
+                  "text":"1990s",
+                  "value":201957688
+              },
+              {
+                  "text":"2000s",
+                  "value":17436509
+              }, 
+              {   "text":"2010s",
+                  "value":17508518
+              }
+          ]
+      },
+      {
+          "text":"Documentary",
+          "children":[
+              {
+                  "text":"2000s",
+                  "value":25153582
+              }, 
+              {   "text":"2010s",
+                  "value":11753033
+              }
+          ]
+      },
+      {
+          "text":"Drama",
+          "children":[
+              {
+                  "text":"1990s",
+                  "value":242295562
+              },
+              {
+                  "text":"2000s",
+                  "value":78382433
+              }, 
+              {   "text":"2010s",
+                  "value":21198271
+              }
+          ]
+      }, 
+      {
+          "text":"Family",
+          "children":[
+              {
+                  "text":"1990s",
+                  "value":129832389
+              },
+              {
+                  "text":"2000s",
+                  "value":248283239
+              }
+          ]
+      },
+      {
+          "text":"Fantasy",
+          "children":[
+              {
+                  "text":"1980s",
+                  "value":68851475
+              },
+              {
+                  "text":"1990s",
+                  "value":486586021
+              },
+              {
+                  "text":"2000s",
+                  "value":176104344
+              }
+          ]
+      },
+      {
+          "text":"History",
+          "children":[
+              {
+                  "text":"2000s",
+                  "value":4854164
+              }
+          ]
+      },
+      {
+          "text":"Horror",
+          "children":[
+              {
+                  "text":"1990s",
+                  "value":211989043
+              },
+              {   "text":"2010s",
+                  "value":2788104
+              }
+          ]
+      },
+      {
+          "text":"Mystery",
+          "children":[
+              {
+                  "text":"2000s",
+                  "value":192170954
+              }
+          ]
+      },
+      {
+          "text":"News",
+          "children":[
+              {
+                  "text":"2000s",
+                  "value":17436509
+              }
+          ]
+      },
+      {
+          "text":"Romance",
+          "children":[
+              {
+                  "text":"1990s",
+                  "value":108431355
+              },
+              {
+                  "text":"2000s",
+                  "value":2998940
+              }
+          ]
+      },
+      {
+          "text":"Sci fi",
+          "children":[
+              {
+                  "text":"1980s",
+                  "value":176638758
+              },
+              {
+                  "text":"1990s",
+                  "value":1124888360
+              },
+              {
+                  "text":"2000s",
+                  "value":625542066
+              }, 
+              {   "text":"2010s",
+                  "value":689934834
+              }
+          ]
+      },
+      {
+          "text":"Sport",
+          "children":[
+              {   "text":"2010s",
+                  "value":901649
+              }
+          ]
+      },
+      {
+          "text":"Thriller",
+          "children":[
+              {
+                  "text":"1980s",
+                  "value":155758558
+              },
+              {
+                  "text":"1990s",
+                  "value":1094466856
+              },
+              {
+                  "text":"2000s",
+                  "value":351211308
+              }, 
+              {   "text":"2010s",
+                  "value":1007271502
+              }
+          ]
+      },
+      {
+          "text":"Western",
+          "children":[
+              {
+                  "text":"2000s",
+                  "value":72178895
+              }, 
+              {   "text":"2010s",
+                  "value":65839275
+              }
+          ]
+      }
+  ]
+};
+
+zingchart.render({ 
+	id: 'myChart', 
+	data: myConfig, 
+	height: '100%', 
+	width: '100%' 
+});
+
+document.getElementById('treemap-layout').addEventListener('change', function(e) {
+  myConfig.options['split-type'] = e.srcElement.value;
+  zingchart.exec('myChart', 'setdata', {
+    data: myConfig
+  });
+})
